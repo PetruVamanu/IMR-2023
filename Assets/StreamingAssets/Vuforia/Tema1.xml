@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="robot_target" size="0.215000 0.371364" />
+    <ImageTarget name="oxigen" size="0.215000 0.368201" />
+  </Tracking>
+</QCARConfig>
